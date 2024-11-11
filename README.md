@@ -111,4 +111,3 @@ Exponential Smoothing
 
 ### RESULT:
 Thus, implemention of the Moving Average Model and Exponential smoothing using python is successful.
-](https://github.com/ragul-2004/TSA_EXP10.git)
