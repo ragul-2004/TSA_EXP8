@@ -1,4 +1,3 @@
-[
 # Ex.No: 08     MOVING AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 ### Date: 
 ### Developed by: Ragul A C
